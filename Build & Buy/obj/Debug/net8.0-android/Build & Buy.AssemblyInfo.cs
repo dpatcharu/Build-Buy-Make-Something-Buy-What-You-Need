@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Build & Buy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4bd66f90a0e412befc8600c3f9a826fd3aabe140")]
 [assembly: System.Reflection.AssemblyProductAttribute("Build & Buy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Build & Buy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
